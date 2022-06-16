@@ -23,7 +23,7 @@
 | 0a. | Pallets Testing Guide | https://github.com/cryptoviet/gafi#test | The pallets functionality unit-test | 
 | 0b. | Client Testing Guide | https://github.com/cryptoviet/gafi/tree/master/tests | The client unit-test | 
 | 0c. | Docker | https://github.com/cryptoviet/gafi#run-in-docker | Docker | 
-| 0d. | Demo | https://wiki.gafi.network/learn/demo | Try all the features of milestone 2 | 
+| 0d. | Demo | https://wiki.gafi.network/how-to-guides/how-to-use-sponsored-pool | Demo Sponsored Pool | 
 | 0e. | Benchmarking | https://github.com/cryptoviet/gafi#benchmarking | Benchmarking for pallets to determine appropriate weights | 
 | 1.  | pallet sponsored-pool | https://github.com/cryptoviet/gafi/tree/master/pallets/sponsored-pool | One more option for players to participate in Gafi Network, reduce transaction fees and help game projects appeals to their users. [Wiki](https://wiki.gafi.network/learn/sponsored-pool)| 
 | 2. | pallet gafi-tx | https://github.com/cryptoviet/gafi/tree/master/pallets/gafi-tx | Gafi TX is the controller to keep the balance of Gafi Network, tistribute fee rewards to the Game creator. [Wiki](https://wiki.gafi.network/learn/gafi-tx)| 
