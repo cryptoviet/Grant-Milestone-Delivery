@@ -29,3 +29,10 @@
 
 **Additional Information**
 > Any further comments on the milestone that you would like to share with us.
+
+***Gafi Testnet***
+| Number | Deliverable | Link | Notes |
+| ------------- | ------------- | ------------- |------------- |
+| 0. | Gafi Testnet | https://wiki.gafi.network/developer/gafi-testnet | Gafi Testnet Document | 
+| 0a. | Gafi runtime configuration | [configuration](https://docs.google.com/spreadsheets/d/17IwxYhBYIeS9GcUVOICurPq1zAfH9mfP/edit#gid=714785406) | Determine runtime configuration through Gafi Testnet | 
+| 0b. | Gafi Testnet Test Performance | https://github.com/grindytech/gafi-test | Gafi test performance | 
